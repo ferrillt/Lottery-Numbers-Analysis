@@ -20,7 +20,8 @@ The presentation's data overview lists Mega Millions (2002–2024), Powerball (2
 | [`analysis/LotteryNumbersAnalysis.twbx`](analysis/LotteryNumbersAnalysis.twbx) | Tableau packaged workbook containing the interactive analysis |
 | [`data/`](data/) | Four prepared, long-format CSV files for the three games; Mega Millions is split into two periods |
 | [`images/`](images/) | Exported charts and working images |
-| [`presentation/LotteryNumbersAnalysis.pdf`](presentation/LotteryNumbersAnalysis.pdf) | Presentation of the question, visual findings, design choices, ethics, and conclusion |
+| [`presentation/LotteryNumbersAnalysis.pdf`](presentation/LotteryNumbersAnalysis.pdf) | Slide presentation of the visual findings | 
+| [`report/LotteryNumbersAnalysis_Report.pdf`](report/LotteryNumbersAnalysis_Report.pdf) | Written report with the presentation in its appendix |
 | [`report/LotteryNumbersAnalysis_Report.pdf`](report/LotteryNumbersAnalysis_Report.pdf) | Describes the audience, preparation steps, visualization choices, and interpretation |
 
 ## Data and preparation
