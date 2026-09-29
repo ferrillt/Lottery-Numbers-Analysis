@@ -22,7 +22,6 @@ The presentation's data overview lists Mega Millions (2002–2024), Powerball (2
 | [`images/`](images/) | Exported charts and working images |
 | [`presentation/LotteryNumbersAnalysis.pdf`](presentation/LotteryNumbersAnalysis.pdf) | Slide presentation of the visual findings | 
 | [`report/LotteryNumbersAnalysis_Report.pdf`](report/LotteryNumbersAnalysis_Report.pdf) | Five-page written report covering the audience, data preparation, design choices, ethics, and conclusion |
-| [`report/LotteryNumbersAnalysis_Report.pdf`](report/LotteryNumbersAnalysis_Report.pdf) | Describes the audience, preparation steps, visualization choices, and interpretation |
 
 ## Data and preparation
 
@@ -47,4 +46,4 @@ A number's historical frequency does not give it an advantage in a future indepe
 ## Source and credit
 
 - New York State Open Data, historical winning-number datasets for Mega Millions, Powerball, and Pick 10: https://data.ny.gov/
-- Teresa Ferrill, *Lottery Number Analysis – Patterns or Randomness?*, Bellevue University, DSC 640, May 10, 2026.
+- Teresa Ferrill, *Lottery Number Analysis – Patterns or Randomness?*, May 10, 2026.
