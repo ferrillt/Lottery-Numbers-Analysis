@@ -1,6 +1,6 @@
 # Lottery Number Analysis: Patterns or Randomness?
 
-This project explores historical winning numbers from **Mega Millions, Powerball, and New York Pick 10**. It asks whether frequently drawn numbers, changes over time, or apparent clusters offer a useful pattern. The analysis was prepared for a general audience as part of Bellevue University's DSC 640 Data Presentation and Visualization course.
+This project explores historical winning numbers from **Mega Millions, Powerball, and New York Pick 10**. It asks whether frequently drawn numbers, changes over time, or apparent clusters offer a useful pattern. The analysis was prepared for a general audience.
 
 **Main takeaway:** Some numbers appeared more often than others in the historical records, but the visualizations did not show a stable pattern that could be used to predict future draws. The project is an exploration of past results, **not a lottery-number prediction tool**.
 
