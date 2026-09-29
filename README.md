@@ -21,7 +21,7 @@ The presentation's data overview lists Mega Millions (2002–2024), Powerball (2
 | [`data/`](data/) | Four prepared, long-format CSV files for the three games; Mega Millions is split into two periods |
 | [`images/`](images/) | Exported charts and working images |
 | [`presentation/LotteryNumbersAnalysis.pdf`](presentation/LotteryNumbersAnalysis.pdf) | Slide presentation of the visual findings | 
-| [`report/LotteryNumbersAnalysis_Report.pdf`](report/LotteryNumbersAnalysis_Report.pdf) | Written report with the presentation in its appendix |
+| [`report/LotteryNumbersAnalysis_Report.pdf`](report/LotteryNumbersAnalysis_Report.pdf) | Five-page written report covering the audience, data preparation, design choices, ethics, and conclusion |
 | [`report/LotteryNumbersAnalysis_Report.pdf`](report/LotteryNumbersAnalysis_Report.pdf) | Describes the audience, preparation steps, visualization choices, and interpretation |
 
 ## Data and preparation
