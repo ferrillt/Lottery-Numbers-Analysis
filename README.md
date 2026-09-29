@@ -46,4 +46,3 @@ A number's historical frequency does not give it an advantage in a future indepe
 ## Source and credit
 
 - New York State Open Data, historical winning-number datasets for Mega Millions, Powerball, and Pick 10: https://data.ny.gov/
-- Teresa Ferrill, *Lottery Number Analysis – Patterns or Randomness?*, May 10, 2026.
