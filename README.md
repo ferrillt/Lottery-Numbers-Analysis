@@ -43,6 +43,12 @@ The exported charts in [`images/`](images/) can be viewed without Tableau. Some 
 
 A number's historical frequency does not give it an advantage in a future independent draw. The project also avoids direct raw-count comparisons with Pick 10 because it selects more numbers per draw. Visual choices, differing game rules, and incomplete years can otherwise make ordinary variation look more meaningful than it is. This analysis should be used to understand the historical data, not to select bets or claim a predictive edge.
 
-## Source and credit
+## Source and Credit
 
-- New York State Open Data, historical winning-number datasets for Mega Millions, Powerball, and Pick 10: https://data.ny.gov/
+Historical winning-number data were obtained from New York State Open Data:
+
+- [Lottery Mega Millions Winning Numbers: Beginning 2002](https://data.ny.gov/Government-Finance/Lottery-Mega-Millions-Winning-Numbers-Beginning-2002/5xaw-6ayf)
+- [Lottery Powerball Winning Numbers: Beginning 2010](https://data.ny.gov/Government-Finance/Lottery-Powerball-Winning-Numbers-Beginning-2010/d6yy-54nr)
+- [Lottery Pick 10 Winning Numbers: Beginning 1987](https://data.ny.gov/Government-Finance/Lottery-Pick-10-Winning-Numbers-Beginning-1987/bycu-cw7c)
+
+The source datasets are updated over time. This project uses the historical extracts described above and the prepared CSV files included in `data/`; newer downloads may contain additional records.
